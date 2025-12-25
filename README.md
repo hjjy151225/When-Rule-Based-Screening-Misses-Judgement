@@ -11,7 +11,8 @@ Specifically, the simulation demonstrates how judgment-based risks, which appear
 The goal of this project is not to propose a new detection algorithm, but to highlight a structural mismatch between:
 	
     the level at which screening rules operate (transaction-level), and
-	  the level at which professional judgment and economic substance reside (case-level).
+	
+	the level at which professional judgment and economic substance reside (case-level).
 
 
 
